@@ -37,7 +37,7 @@ TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_INCLUDE_STOCK_AICORE := true
 
 # OTA
-TARGET_OTA_ASSERT_DEVICE := pdx234,XQ-DQ72
+TARGET_OTA_ASSERT_DEVICE := pdx234,XQ-DQ72,A301SO
 
 # inherit from the proprietary version
 -include vendor/sony/pdx234/BoardConfigVendor.mk

@@ -27,20 +27,20 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 IS_PHONE := true
 
 PRODUCT_BUILD_PROP_OVERRIDES := \
-    DeviceName=XQ-DQ72 \
-    DeviceProduct=XQ-DQ72 \
-    SystemDevice=XQ-DQ72 \
-    SystemName=XQ-DQ72 \
-    BuildFingerprint=Sony/XQ-DQ72/XQ-DQ72:15/67.2.A.3.178/067002A003017800521143226:user/release-keys \
-    BuildDesc="XQ-DQ72-user 15 67.2.A.3.178 067002A003017800521143226 release-keys"
+    DeviceName=A301SO \
+    DeviceProduct=A301SO \
+    SystemDevice=A301SO \
+    SystemName=A301SO \
+    BuildFingerprint=Sony/A301SO/A301SO:13/67.0.D.8.61/067000D008006100602211349:user/release-keys \
+    BuildDesc="A301SO-user 13 67.0.D.8.61 067000D008006100602211349 release-keys"
 
 PRODUCT_NAME := lineage_pdx234
 PRODUCT_DEVICE := pdx234
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_BRAND := Sony
-PRODUCT_MODEL := XQ-DQ72
+PRODUCT_MODEL := A301SO
 
-PRODUCT_SYSTEM_NAME := XQ-DQ72
-PRODUCT_SYSTEM_DEVICE := XQ-DQ72
+PRODUCT_SYSTEM_NAME := A301SO
+PRODUCT_SYSTEM_DEVICE := A301SO
 
 PRODUCT_GMS_CLIENTID_BASE := android-sonymobile

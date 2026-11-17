@@ -654,6 +654,7 @@ vendor/firmware/cs40l25a_cal.wmfw
 
 # SKU
 odm/etc/customization/A301SO/config.prop
+odm/etc/customization/c001894/config.prop
 odm/etc/customization/SO-51D/config.prop
 odm/etc/customization/SOG10_jp_kdi/config.prop
 odm/etc/customization/XQ-DQ44/config.prop
